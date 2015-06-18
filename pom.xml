@@ -121,6 +121,7 @@
         <module>build-tools</module>
         <module>tmc-langs-framework</module>
         <module>tmc-langs-util</module>
+        <module>tmc-langs-abstraction</module>
         <!-- TODO: add plugins and support libraries here -->
         <module>tmc-langs-java</module>
     </modules>
