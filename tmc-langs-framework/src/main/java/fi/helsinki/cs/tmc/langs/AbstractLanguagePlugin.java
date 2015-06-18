@@ -1,7 +1,7 @@
 package fi.helsinki.cs.tmc.langs;
 
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationResult;
 import fi.helsinki.cs.tmc.langs.sandbox.SubmissionProcessor;
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationResult;
 
 import com.google.common.collect.ImmutableList;
 

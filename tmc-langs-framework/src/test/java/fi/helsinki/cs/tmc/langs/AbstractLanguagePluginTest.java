@@ -5,9 +5,9 @@ import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationResult;
 import fi.helsinki.cs.tmc.langs.sandbox.SubmissionProcessor;
 import fi.helsinki.cs.tmc.langs.utils.TestUtils;
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationResult;
 
 import com.google.common.base.Optional;
 import com.google.common.collect.ImmutableList;

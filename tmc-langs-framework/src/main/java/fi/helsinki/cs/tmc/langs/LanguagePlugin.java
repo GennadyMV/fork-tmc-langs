@@ -1,6 +1,6 @@
 package fi.helsinki.cs.tmc.langs;
 
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationResult;
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationResult;
 
 import com.google.common.base.Optional;
 import com.google.common.collect.ImmutableList;

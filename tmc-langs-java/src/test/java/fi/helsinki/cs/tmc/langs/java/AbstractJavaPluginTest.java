@@ -12,14 +12,14 @@ import static org.mockito.Mockito.verify;
 
 import fi.helsinki.cs.tmc.langs.CompileResult;
 import fi.helsinki.cs.tmc.langs.ExerciseDesc;
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationError;
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationResult;
 import fi.helsinki.cs.tmc.langs.java.exception.TestRunnerException;
 import fi.helsinki.cs.tmc.langs.java.exception.TestScannerException;
 import fi.helsinki.cs.tmc.langs.java.testscanner.TestScanner;
 import fi.helsinki.cs.tmc.langs.sandbox.SubmissionProcessor;
 import fi.helsinki.cs.tmc.langs.utils.SourceFiles;
 import fi.helsinki.cs.tmc.langs.utils.TestUtils;
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationError;
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationResult;
 
 import com.google.common.base.Optional;
 

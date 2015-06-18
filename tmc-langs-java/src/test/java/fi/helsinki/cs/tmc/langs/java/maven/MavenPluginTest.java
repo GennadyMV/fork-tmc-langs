@@ -6,9 +6,9 @@ import static org.junit.Assert.assertTrue;
 
 import fi.helsinki.cs.tmc.langs.CompileResult;
 import fi.helsinki.cs.tmc.langs.RunResult;
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationError;
+import fi.helsinki.cs.tmc.langs.abstraction.ValidationResult;
 import fi.helsinki.cs.tmc.langs.utils.TestUtils;
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationError;
-import fi.helsinki.cs.tmc.stylerunner.validation.ValidationResult;
 
 import org.junit.Test;
 
